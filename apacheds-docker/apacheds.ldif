@@ -1,0 +1,15 @@
+version: 1
+
+dn: dc=example,dc=com
+objectclass: top
+objectclass: domain
+dc: example
+contextCSN: 20240515063940.906000Z#000000#000#000000
+entryCSN: 20240515063940.906000Z#000000#000#000000
+entryDN: dc=example,dc=com
+entryParentId: 00000000-0000-0000-0000-000000000000
+entryUUID: f30f4d75-2361-4ca9-9aee-a56225dce02e
+nbChildren: 0
+nbSubordinates: 0
+subschemaSubentry: cn=schema
+
